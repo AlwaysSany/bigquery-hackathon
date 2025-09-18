@@ -1,9 +1,5 @@
 # BigQuery Hackathon: Smart Substitute Recommender
 
-A BigQuery-powered solution that suggests ideal product substitutes based on a deep understanding of product attributes, not just shared tags or categories.
-
-## Project Overview
-
 This project demonstrates how to build a smart product recommendation system using BigQuery and machine learning techniques. The system analyzes product attributes to suggest substitutes that are semantically similar rather than relying solely on traditional category-based matching.
 
 # Project Structure
