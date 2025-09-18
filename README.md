@@ -6,6 +6,33 @@ A BigQuery-powered solution that suggests ideal product substitutes based on a d
 
 This project demonstrates how to build a smart product recommendation system using BigQuery and machine learning techniques. The system analyzes product attributes to suggest substitutes that are semantically similar rather than relying solely on traditional category-based matching.
 
+## local setup
+
+### Prerequisites
+
+- Google Cloud account with BigQuery enabled
+- Python 3.7+
+- `pip` package manager
+- `virtualenv` (recommended for isolated environment setup)
+
+### Installation
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/yourusername/bigquery-hackathon.git
+   cd bigquery-hackathon
+   ```
+
+2. Set up a virtual environment and setup dependencies
+   ```
+   uv init
+   uv sync
+   ```
+
+3. Set up environment variables:
+   - Copy `.env.example` to `.env`
+   - Update `GOOGLE_APPLICATION_CREDENTIALS` with your service account JSON key path
+
 ## Notebooks
 
 ### 1. Setup_Table_Analysis_with_Bigquery.ipynb
