@@ -1,4 +1,4 @@
-# Smart Substitute Recommender 🕵️‍♀️
+# VectorMart: Intelligent Product Discovery Through Semantic Understanding 🕵️‍♀️
 
 **BigQuery AI Hackathon - Approach 2: Beyond Keyword Matching** [Kaggle](https://www.kaggle.com/competitions/bigquery-ai-hackathon/overview#:~:text=actionable%20business%20insights.-,Approach%202%3A%20The%20Semantic%20Detective,-%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%80%EF%B8%8F)
 
@@ -6,7 +6,7 @@
 
 Traditional e-commerce recommendation systems rely on simplistic category matching and keyword searches, missing **70% of relevant product alternatives**. When customers can't find their desired product due to stock-outs, size unavailability, or budget constraints, they often abandon their purchase entirely.
 
-Our **Smart Substitute Recommender** leverages BigQuery's native vector search capabilities to understand deep semantic relationships between products, discovering meaningful alternatives that traditional systems completely overlook.
+Our **VectorMart** solution leverages BigQuery's native vector search capabilities to understand deep semantic relationships between products, discovering meaningful alternatives that traditional systems completely overlook.
 
 ## Real-World Impact
 - **5x more relevant recommendations** compared to category-based matching
