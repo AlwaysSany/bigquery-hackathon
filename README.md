@@ -92,54 +92,54 @@ This will open Jupyter Lab in your browser where you can run the notebooks. Make
 The `Setup_Table_Analysis_with_Bigquery.ipynb` notebook implements ten distinct recommendation approaches that solve critical e-commerce challenges: Here I put my own analysis of impact of each scenario in the notebook, this is just an approximation not based on real data.
 
 ### Scenario 1: Basic Semantic Discovery
-**Problem**: Customer searches for "comfortable work shoes" but keyword search only returns exact matches, missing semantically similar options
-**Solution**: Semantic similarity analysis discovers loafers, oxford shoes, and dress sneakers that match the comfort and professional context
-**Impact**: 70% increase in relevant product discovery and 15% boost in search conversion rates
+- **Problem**: Customer searches for "comfortable work shoes" but keyword search only returns exact matches, missing semantically similar options.
+- **Solution**: Semantic similarity analysis discovers loafers, oxford shoes, and dress sneakers that match the comfort and professional context.
+- **Impact**: 70% increase in relevant product discovery and 15% boost in search conversion rates.
 
 ### Scenario 2: Multi-Factor Intelligence
-**Problem**: Customer likes a $120 Nike jacket but wants something similar in their preferred brand (Adidas) within a $80-100 budget
-**Solution**: Multi-factor scoring combines semantic similarity (0.8), price range match (0.9), and brand preference (1.0) to recommend perfect alternatives
-**Impact**: 45% higher customer satisfaction and 30% increase in purchase completion
+- **Problem**: Customer likes a $120 Nike jacket but wants something similar in their preferred brand (Adidas) within a $80-100 budget.
+- **Solution**: Multi-factor scoring combines semantic similarity (0.8), price range match (0.9), and brand preference (1.0) to recommend perfect alternatives
+- **Impact**: 45% higher customer satisfaction and 30% increase in purchase completion
 
 ### Scenario 3: Cross-Category Discovery
-**Problem**: Customer needs "professional attire" but browsing only the "Suits" category misses relevant options in other departments
-**Solution**: Semantic analysis discovers dress pants from "Casual Wear," blazers from "Women's Jackets," and professional dresses from "Formal Wear"
-**Impact**: 35% increase in cross-category sales and 25% boost in average basket size
+- **Problem**: Customer needs "professional attire" but browsing only the "Suits" category misses relevant options in other departments
+- **Solution**: Semantic analysis discovers dress pants from "Casual Wear," blazers from "Women's Jackets," and professional dresses from "Formal Wear"
+- **Impact**: 35% increase in cross-category sales and 25% boost in average basket size
 
 ### Scenario 4: Budget-Conscious Shopping
-**Problem**: Customer loves a $200 designer dress but can only afford $100-120 range
-**Solution**: Price-conscious semantic matching finds 85% similar dresses from mid-tier brands at 40% lower cost while maintaining style preferences
-**Impact**: 50% reduction in price-related cart abandonment and 20% increase in budget-segment conversions
+- **Problem**: Customer loves a $200 designer dress but can only afford $100-120 range
+- **Solution**: Price-conscious semantic matching finds 85% similar dresses from mid-tier brands at 40% lower cost while maintaining style preferences
+- **Impact**: 50% reduction in price-related cart abandonment and 20% increase in budget-segment conversions
 
 ### Scenario 5: Trend-Aware Recommendations
-**Problem**: Customer finds semantically similar vintage jeans, but they're unpopular and likely to disappoint
-**Solution**: Trend-aware algorithm weights semantic similarity with popularity scores, surfacing currently trending vintage-style jeans instead
-**Impact**: 60% higher customer satisfaction and 25% increase in repeat purchase rates
+- **Problem**: Customer finds semantically similar vintage jeans, but they're unpopular and likely to disappoint
+- **Solution**: Trend-aware semantic matching finds similar jeans from brands known for trendy fashion
+- **Impact**: 60% higher customer satisfaction and 25% increase in repeat purchase rates
 
 ### Scenario 6: Department-Level Exploration
-**Problem**: Male customer needs slim-fit pants but "Men's" section has limited options, while "Women's" has perfect unisex styles
-**Solution**: Cross-gender semantic analysis discovers unisex and women's pants that fit male body types and style preferences
-**Impact**: 40% expansion of available options and 30% increase in customer choice satisfaction
+- **Problem**: Male customer needs slim-fit pants but "Men's" section has limited options, while "Women's" has perfect unisex styles
+- **Solution**: Cross-gender semantic analysis discovers unisex and women's pants that fit male body types and style preferences
+- **Impact**: 40% expansion of available options and 30% increase in customer choice satisfaction
 
 ### Scenario 7: Inventory-Aware Substitutes
-**Problem**: Customer's desired size is unavailable in their chosen product
-**Solution**: Semantic system suggests similar products from different brands with compatible sizing that are currently in stock
-**Impact**: 40% reduction in cart abandonment and 25% increase in immediate purchase completion
+- **Problem**: Customer's desired size is unavailable in their chosen product
+- **Solution**: Semantic system suggests similar products from different brands with compatible sizing that are currently in stock
+- **Impact**: 40% reduction in cart abandonment and 25% increase in immediate purchase completion
 
 ### Scenario 8: Seasonal/Occasion-Based Matching
-**Problem**: Customer needs a wedding guest dress but their first choice is sold out during peak wedding season
-**Solution**: Occasion-aware semantic matching finds contextually appropriate formal dresses suitable for wedding events
-**Impact**: 35% increase in seasonal sales and 45% improvement in occasion-specific customer satisfaction
+- **Problem**: Customer needs a wedding guest dress but their first choice is sold out during peak wedding season
+- **Solution**: Occasion-aware semantic matching finds contextually appropriate formal dresses suitable for wedding events
+- **Impact**: 35% increase in seasonal sales and 45% improvement in occasion-specific customer satisfaction
 
 ### Scenario 9: Size/Fit-Aware Substitutes
-**Problem**: Customer's preferred jeans size is unavailable, leading to cart abandonment (42% of fashion e-commerce cases)
-**Solution**: Fit-aware semantic analysis suggests similar jeans from brands with compatible sizing and fit characteristics
-**Impact**: 60% reduction in size-related returns and 30% decrease in cart abandonment rates
+- **Problem**: Customer's preferred jeans size is unavailable, leading to cart abandonment (42% of fashion e-commerce cases)
+- **Solution**: Fit-aware semantic analysis suggests similar jeans from brands with compatible sizing and fit characteristics
+- **Impact**: 60% reduction in size-related returns and 30% decrease in cart abandonment rates
 
 ### Scenario 10: Brand-Aware Recommendations
-**Problem**: Loyal Nike customer receives generic recommendations that ignore their brand preference, leading to low engagement
-**Solution**: Brand-affinity semantic matching prioritizes Nike products and similar-tier athletic brands that match customer loyalty patterns
-**Impact**: 30% increase in brand loyalty retention and 40% higher conversion rates for brand-conscious customers
+- **Problem**: Loyal Nike customer receives generic recommendations that ignore their brand preference, leading to low engagement
+- **Solution**: Brand-affinity semantic matching prioritizes Nike products and similar-tier athletic brands that match customer loyalty patterns
+- **Impact**: 30% increase in brand loyalty retention and 40% higher conversion rates for brand-conscious customers
 
 
 ## Five Complementary Enhancement Features
