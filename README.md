@@ -1,6 +1,6 @@
 # Smart Substitute Recommender 🕵️‍♀️
 
-**BigQuery AI Hackathon - Approach 2: Beyond Keyword Matching**
+**BigQuery AI Hackathon - Approach 2: Beyond Keyword Matching [Kaggle](https://www.kaggle.com/competitions/bigquery-ai-hackathon/overview#:~:text=actionable%20business%20insights.-,Approach%202%3A%20The%20Semantic%20Detective,-%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%80%EF%B8%8F**
 
 ## Business Problem & Solution
 
