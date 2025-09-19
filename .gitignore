@@ -216,3 +216,5 @@ __marimo__/
 .streamlit/secrets.toml
 .DS_Store
 *.json
+experimental_ipynb/
+survey.txt
