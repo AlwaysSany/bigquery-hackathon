@@ -2,10 +2,13 @@
 
 **BigQuery AI Hackathon - Approach 2: Beyond Keyword Matching** [Kaggle](https://www.kaggle.com/competitions/bigquery-ai-hackathon/overview#:~:text=actionable%20business%20insights.-,Approach%202%3A%20The%20Semantic%20Detective,-%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%80%EF%B8%8F)
 
+**Snapshots of the public dataset from BigQuery:**
+
 <img width="1915" height="824" alt="public_dataset_from_bigquery" src="https://github.com/user-attachments/assets/08f5888b-6468-439c-b64d-98fd844cf931" />
 
 <img width="1918" height="852" alt="Screenshot 2025-09-20 at 11 36 06 PM" src="https://github.com/user-attachments/assets/50ed59ea-8a60-46fc-ac4e-4ace37eaf9fe" />
 
+**Full Video Demo:** https://www.youtube.com/watch?v=uaPMIvEQn3g
 
 ## Business Problem & Solution
 
