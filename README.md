@@ -54,9 +54,9 @@ Instead of matching products by tags or categories, our system:
 
 ### Colab Notebooks
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Cs54xdLWlKgBhDbpZSg7oN3RC1pF37Nb?usp=sharing)
+Setup, Index, Analysis: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L_D2TtdQG0or0dj1zGksd0xVEqVtsFO9?usp=sharing)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L_lfjsGjFkEUN49Wskx2vwgmOHDGOPA4?usp=sharing)
+Quality Check: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RjrEmVurQ1l8lo01eCpMhiIwNwYtni4D?usp=sharing)
 
 
 
