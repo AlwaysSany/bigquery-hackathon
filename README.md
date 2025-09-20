@@ -4,6 +4,9 @@
 
 <img width="1915" height="824" alt="public_dataset_from_bigquery" src="https://github.com/user-attachments/assets/08f5888b-6468-439c-b64d-98fd844cf931" />
 
+<img width="1918" height="852" alt="Screenshot 2025-09-20 at 11 36 06 PM" src="https://github.com/user-attachments/assets/50ed59ea-8a60-46fc-ac4e-4ace37eaf9fe" />
+
+
 ## Business Problem & Solution
 
 Traditional e-commerce recommendation systems rely on simplistic category matching and keyword searches, missing **70% of relevant product alternatives**. When customers can't find their desired product due to stock-outs, size unavailability, or budget constraints, they often abandon their purchase entirely.
