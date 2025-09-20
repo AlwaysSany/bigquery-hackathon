@@ -2,6 +2,8 @@
 
 **BigQuery AI Hackathon - Approach 2: Beyond Keyword Matching** [Kaggle](https://www.kaggle.com/competitions/bigquery-ai-hackathon/overview#:~:text=actionable%20business%20insights.-,Approach%202%3A%20The%20Semantic%20Detective,-%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%80%EF%B8%8F)
 
+<img width="1915" height="824" alt="public_dataset_from_bigquery" src="https://github.com/user-attachments/assets/08f5888b-6468-439c-b64d-98fd844cf931" />
+
 ## Business Problem & Solution
 
 Traditional e-commerce recommendation systems rely on simplistic category matching and keyword searches, missing **70% of relevant product alternatives**. When customers can't find their desired product due to stock-outs, size unavailability, or budget constraints, they often abandon their purchase entirely.
