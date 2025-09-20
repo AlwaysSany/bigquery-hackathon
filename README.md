@@ -28,7 +28,6 @@ Instead of matching products by tags or categories, our system:
 
 ## Technical Architecture
 
-### BigQuery AI Spy Kit Implementation
 
 **Vector Search in SQL:**
 - `ML.GENERATE_EMBEDDING`: Transforms product descriptions into 768-dimensional vectors using text-embedding-004
