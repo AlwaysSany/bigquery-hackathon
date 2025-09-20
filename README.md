@@ -97,7 +97,7 @@ This will open Jupyter Lab in your browser where you can run the notebooks. Make
 
 ## Eight Advanced Semantic Detection Strategies
 
-The `Setup_Table_Analysis_with_Bigquery.ipynb` notebook implements ten distinct recommendation approaches that solve critical e-commerce challenges: Here I put my own analysis of impact of each scenario in the notebook, this is just an approximation not based on real data.
+The `Setup_Table_Analysis_with_Bigquery.ipynb` notebook implements eight distinct recommendation approaches that solve critical e-commerce challenges: Here I put my own analysis of impact of each scenario in the notebook, this is just an approximation not based on real data.
 
 ### Scenario 1: Basic Semantic Discovery
 - **Problem**: Customer searches for "comfortable work shoes" but keyword search only returns exact matches, missing semantically similar options.
