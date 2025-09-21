@@ -8,8 +8,11 @@
 
 <img width="1918" height="852" alt="Screenshot 2025-09-20 at 11 36 06 PM" src="https://github.com/user-attachments/assets/50ed59ea-8a60-46fc-ac4e-4ace37eaf9fe" />
 
+---
 
 **Full Video Demo:** https://www.youtube.com/watch?v=uaPMIvEQn3g
+
+---
 
 ## Business Problem & Solution
 
@@ -35,8 +38,9 @@ Instead of matching products by tags or categories, our system:
 3. **Considers Business Logic**: Balances similarity with price, popularity, and inventory status
 4. **Learns from Trends**: Incorporates purchasing patterns to surface popular alternatives
 
-## Technical Architecture
+---
 
+## Technical Architecture
 
 **Vector Search in SQL:**
 - `ML.GENERATE_EMBEDDING`: Transforms product descriptions into 768-dimensional vectors using text-embedding-004
@@ -104,6 +108,8 @@ uv run --with jupyter jupyter lab
 
 This will open Jupyter Lab in your browser where you can run the notebooks. Make sure to select the `Python (bigquery-hackathon)` kernel when running the notebooks.
 
+---
+
 ## Eight Advanced Semantic Detection Strategies
 
 The `Setup_Table_Analysis_with_Bigquery.ipynb` notebook implements eight distinct recommendation approaches that solve critical e-commerce challenges: Here I put my own analysis of impact of each scenario in the notebook, this is just an approximation not based on real data.
@@ -148,6 +154,7 @@ The `Setup_Table_Analysis_with_Bigquery.ipynb` notebook implements eight distinc
 - **Solution**: Brand-affinity semantic matching prioritizes Nike products and similar-tier athletic brands that match customer loyalty patterns
 - **Impact**: 30% increase in brand loyalty retention and 40% higher conversion rates for brand-conscious customers
 
+---
 
 ## Five Complementary Enhancement Features
 
@@ -173,6 +180,7 @@ The `Ecommerce_Recommendation_Quality_Performance_Check.ipynb` notebook adds **5
 - **Purpose**: Scientific A/B testing framework for substitute recommendation validation
 - **Business Value**: Provides scientific validation of substitute effectiveness before deployment
 
+---
 
 ## Production Deployment Considerations
 
