@@ -11,7 +11,7 @@
 
 #### Full Video Demo
 
-[Full Video Demo](https://www.youtube.com/watch?v=uaPMIvEQn3g)
+[![Watch the video](https://img.youtube.com/vi/uaPMIvEQn3g/maxresdefault.jpg)](https://www.youtube.com/watch?v=uaPMIvEQn3g)
 
 
 ## Business Problem & Solution
