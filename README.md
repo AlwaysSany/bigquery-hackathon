@@ -80,7 +80,7 @@ Instead of matching products by tags or categories, our system:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/bigquery-hackathon.git
+   git clone https://github.com/AlwaysSany/bigquery-hackathon.git
    cd bigquery-hackathon
    ```
 
