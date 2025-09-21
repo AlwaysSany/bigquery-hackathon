@@ -9,10 +9,10 @@
 <img width="1918" height="852" alt="Screenshot 2025-09-20 at 11 36 06 PM" src="https://github.com/user-attachments/assets/50ed59ea-8a60-46fc-ac4e-4ace37eaf9fe" />
 
 
+#### Full Video Demo
 
-**Full Video Demo:** https://www.youtube.com/watch?v=uaPMIvEQn3g
+[Full Video Demo](https://www.youtube.com/watch?v=uaPMIvEQn3g)
 
----
 
 ## Business Problem & Solution
 
